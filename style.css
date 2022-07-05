@@ -1,0 +1,213 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+section {
+    display: flex;
+}
+
+
+
+
+.a {
+    color: orange;
+}
+
+.b {
+    font-size: 45px;
+    font-weight: bold;
+
+
+}
+
+.cc {
+    padding-bottom: 60px;
+    font: 800;
+}
+
+.c {
+    text-decoration: none;
+    color: white;
+    background-color: orangered;
+    margin-top: 1S20px;
+    padding: 20px 40px;
+    border-radius: 60px;
+}
+
+.qq {
+    width: 100%;
+    padding: 65px;
+    padding-right: 10px;
+
+}
+
+.ad {
+    padding-left: 30px;
+
+}
+
+.d {
+    width: 100%;
+
+    padding-left: 55px;
+    padding-right: 50px;
+}
+
+.d img {
+    width: 100%;
+}
+
+.o {
+    padding-top: 90px;
+    padding-left: 120px;
+    padding-right: 90px;
+
+}
+
+.ii {
+    background-color: #F9DED6;
+    padding-bottom: 50px;
+    background-image: url(7.png);
+    background-repeat: no-repeat;
+}
+
+.jj {
+    width: 100%;
+    padding-left: 170px;
+    padding-top: 30px;
+}
+
+.jj img {
+    width: 70%;
+
+}
+
+.y {
+    padding-bottom: 80px;
+}
+
+.t {
+    text-align: center;
+    width: 100%;
+}
+
+.tt {
+    margin-left: 300px;
+    margin-right: 300px;
+    font-weight: 100;
+    font: 800;
+}
+
+.pic {
+    display: flex;
+    margin: 4%;
+    padding-left: 6%;
+    padding-right: 2%;
+}
+
+.uuu {
+    width: 280%;
+}
+
+.pic img {
+    width: 80%;
+
+
+}
+
+.ll {
+
+    text-align: left-justify;
+    padding: 5px 60px 2px 20px;
+}
+
+.pic {
+    margin: 5%;
+
+}
+
+.pic1 {
+    box-shadow: 0px 0px 15px rgb(132, 71, 71);
+
+    padding: 5px 7px 5px px;
+    margin-left: -43px;
+    border-radius: 15px;
+
+}
+
+.pic2 {
+    box-shadow: 0px 0px 15px rgb(132, 71, 71);
+    padding: 5px 7px 5px 20px;
+    margin-left: 10px;
+    border-radius: 15px;
+
+}
+
+.pic3 {
+    box-shadow: 0px 0px 15px rgb(132, 71, 71);
+
+    padding: 5px 7px 5px 20px;
+    margin-left: 10px;
+    border-radius: 15px;
+}
+
+.h {
+    padding: 15px;
+}
+
+.w {
+    display: flex;
+    margin: 5% 7%;
+
+    padding: 5px 5px;
+    box-shadow: 0px 0px 15px rgb(132, 71, 71);
+}
+
+.t1 {
+    padding-left: 315px;
+
+
+}
+
+.t2 {
+    padding-left: 95px;
+    padding-right: 95px;
+
+}
+
+.t3 {
+
+    padding-right: 225px;
+}
+
+.r {
+    color: orangered;
+}
+
+.rr {
+    color: gray;
+}
+
+.rrr {
+    color: white;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.q1 {
+    color: red;
+}
+
+.q3 {
+    color: blue;
+}
+
+.q2 {
+    color: rgb(7, 247, 103);
+}
